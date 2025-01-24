@@ -3,7 +3,6 @@
 
 A command line tool for managing tasks. You can list, add, update and delete tasks, as well as mark tasks with different statuses.
 
-link to the original project: https://roadmap.sh/projects/task-tracker
 
 ## Instalación
 
@@ -130,6 +129,7 @@ link to the original project: https://roadmap.sh/projects/task-tracker
 - [Angel Peñalver](https://github.com/AngelPenalver)
 
 ---
+https://roadmap.sh/projects/task-tracker
 
 Thank you for using Task CLI! If you have any questions or problems, feel free to open an issue in the repository.
 ```
