@@ -8,7 +8,7 @@ A command line tool for managing tasks. You can list, add, update and delete tas
 1. Clone repository:
 
    ```sh
-   git clone https://github.com/AngelPenalver/proyects_backend/tree/main/todo_list
+   git clone https://github.com/AngelPenalver/task-cli
    cd task-cli
    ```
 
