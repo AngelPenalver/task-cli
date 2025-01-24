@@ -3,6 +3,8 @@
 
 A command line tool for managing tasks. You can list, add, update and delete tasks, as well as mark tasks with different statuses.
 
+link to the original project: https://roadmap.sh/projects/task-tracker
+
 ## Instalación
 
 1. Clone repository:
